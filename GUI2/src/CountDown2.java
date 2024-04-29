@@ -13,7 +13,9 @@ public class CountDown2 extends JFrame {
 
 
     public void disableAllButtons() {
-        
+        for (int i = 0; i < buttons.length; i++) {
+            // buttons[i].
+        }
     
     }
 
