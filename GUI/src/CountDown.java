@@ -32,6 +32,7 @@ public class CountDown extends JFrame {
 
     }
 
+    
     public boolean array_contains(int[] arr, int element) {
         for (int i : arr) {
             if (i == element) {
@@ -42,6 +43,7 @@ public class CountDown extends JFrame {
 
     }
 
+    
     public void generateValues() {
         values = new int[16];
         int count = 0;
